@@ -1,7 +1,8 @@
 - 👋 Hi, I’m  Job Junior
-- 👀 I’m interested in  compartilhar  meus conhecimentos  adiquiridos  e aprender nesta comunidade. 
-- 🌱 I’m currently learning  HTML5,  CSS3 e  JS.
-- 💞️ I’m looking to collaborate on  vários projrtod para aperfeiçoamento
+- 👀 I’m interested in  compartilhar  meus conhecimentos  adquiridos  e aprender nesta plataforma. 
+- 🌱 I’m currently learning  HTML5,  CSS3 e  JS;
+- Agora  estou praticando a linguagem c#.
+- 💞️ I’m looking to collaborate on  vários projrtod para aperfeiçoamento  pessoal.
 
 
 <!---
